@@ -1,0 +1,3 @@
+Hello Reader,
+
+This is also another test for my app development class.
